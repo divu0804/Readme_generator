@@ -1,0 +1,20 @@
+{
+  "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./EditorColumnTabPanel": {
+    "id": "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./EditorColumnTabPanel",
+    "files": [
+      "static/chunks/src_components_editor_PreviewColumnTab_EditorColumnTabPanel_tsx.js"
+    ]
+  },
+  "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./PreviewTabPanel": {
+    "id": "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./PreviewTabPanel",
+    "files": [
+      "static/chunks/src_components_editor_PreviewColumnTab_PreviewTabPanel_tsx.js"
+    ]
+  },
+  "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./RawTabPanel": {
+    "id": "../components/editor/PreviewColumnTab/PreviewColumnTab.tsx -> ./RawTabPanel",
+    "files": [
+      "static/chunks/src_components_editor_PreviewColumnTab_RawTabPanel_tsx.js"
+    ]
+  }
+}
